@@ -1,6 +1,6 @@
 # About Me
 
-I am a fourth year PhD candidate in Operations Management at the Kellogg School of Management, Northwestern University, where I am advised by Professor Achal Bassamboo.
+I am a fourth year Ph.D. candidate in Operations Management at the Kellogg School of Management, Northwestern University, where I am advised by Professor Achal Bassamboo.
 
 ## Running locally
 
