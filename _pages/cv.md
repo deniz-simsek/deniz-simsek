@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Operations Management, Kellogg School of Management, Northwestern University, 2026 (expected)
+* M.Sc. in Industrial Engineering, Bilkent University, 2021
+* B.Sc. in Industrial Engineering, Bilkent University, 2019
 
 Work experience
 ======
