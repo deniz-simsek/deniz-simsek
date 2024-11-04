@@ -27,11 +27,12 @@ author:
   bio              : "PhD Candidate, Operations Management, Northwestern University"
   location         : "Evanston, IL"
   employer         : "Northwestern University"
-  uri              : "/files/resume.pdf"
+  uri              : # URL
   email            : "deniz.simsek@kellogg.northwestern.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
+  resume           : "/files/resume.pdf"
   googlescholar    : "https://scholar.google.com/citations?user=kvKsQWgAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-9807-0458"
