@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Evanston, IL"
   employer         : "Northwestern University"
