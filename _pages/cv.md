@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+ 
 ## Education
 ---
 * Ph.D in Operations Management, Kellogg School of Management, Northwestern University, 2026 (expected)
