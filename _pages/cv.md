@@ -14,23 +14,6 @@ Education
 * Ph.D in Operations Management, Kellogg School of Management, Northwestern University, 2026 (expected)
 * M.Sc. in Industrial Engineering, Bilkent University, 2021
 * B.Sc. in Industrial Engineering, Bilkent University, 2019
-
-Industry Experience (to be changed)
-======
-* Spring 2024: Academic Pages Collaborator 
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 
 Publications (to be changed)
