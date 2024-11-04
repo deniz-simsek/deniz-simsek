@@ -16,4 +16,4 @@ I hold a B.Sc. and M.Sc. in Industrial Engineering from  <a href="https://w3.ie.
 
 ---
 
-#### **Email:** deniz.simsek [at] kellogg.northwestern.edu
+### **Email:** deniz.simsek [at] kellogg.northwestern.edu
