@@ -7,34 +7,40 @@ redirect_from:
   - /teaching
 ---
 
-{% include base_path %}
+## Teaching Assistant, Northwestern University 
 
-Education
-======
-* Ph.D in Operations Management, Kellogg School of Management, Northwestern University, 2026 (expected)
-* M.Sc. in Industrial Engineering, Bilkent University, 2021
-* B.Sc. in Industrial Engineering, Bilkent University, 2019
-  
+* Stochastic Foundations II (Ph.D. core)
+  Spring 2025, Spring 2024
 
-Publications (to be changed)
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks (to be changed)
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching (to be changed)
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service
-======
-* Voting Board Member, INFORMS Pride Forum, 2023 - Present 
-* Vice President, Operations Student Life Committe, Kellogg School of Management, 2023 - 2024
+* Supply Chain Management (MBA elective)
+  Spring 2025
+
+* Data Science with Large Language Models (MBA elective)
+  Fall 2024
+
+* Applied Advanced Analytics (MBA elective)
+  Spring 2024
+
+* Humanitarian and Non-Profit Operations (MBA elective)
+  Winter 2024, Winter 2023
+
+* Decision Models and Prescriptive Analytics (MBA elective)
+  Fall 2023, Winter 2023
+    
+* Operations Management (MBA core)
+  Spring 2023, Summer 2023
+    
+## Teaching Assistant, Bilkent University
+
+* Production Information Systems (Undergraduate core)
+  Spring 2019
+    
+* Simulation (Undergraduate core)
+  Fall 2018
+
+* Introduction to Programming (Undergraduate core)
+  Spring 2017, Fall 2017
+    
+* Introduction to Computing for Engineers (Undergraduate core)
+  Fall 2016
+    
