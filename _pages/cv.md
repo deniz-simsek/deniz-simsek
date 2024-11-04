@@ -18,9 +18,9 @@ redirect_from:
 
 ## Publications 
 ---
-## Talks (to be changed)
+## Talks 
 ---
-## Teaching (to be changed)
+## Teaching 
 ---
 ## Service
 ---
