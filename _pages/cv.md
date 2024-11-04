@@ -16,24 +16,15 @@ Education
 * B.Sc. in Industrial Engineering, Bilkent University, 2019
   
 
-Publications (to be changed)
+Publications 
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Talks (to be changed)
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching (to be changed)
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service
 ======
 * Voting Board Member, INFORMS Pride Forum, 2023 - Present 
