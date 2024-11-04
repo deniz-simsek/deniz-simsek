@@ -14,3 +14,8 @@ My research interests are service operations, queueing theory, applied probabili
 I hold a B.Sc. and M.Sc. in Industrial Engineering from  <a href="https://w3.ie.bilkent.edu.tr/en/" target="_blank">Bilkent University</a> (Ankara, Turkey). 
 
 
+---
+
+#### Contact 
+
+deniz.simsek [at] kellogg.northwestern.edu
