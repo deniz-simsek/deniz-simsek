@@ -28,9 +28,10 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+/* Set Calibri as the global font */
+$global-font-family         : Calibri, sans-serif;
+$header-font-family         : $global-font-family;
+$caption-font-family        : $global-font-family;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
