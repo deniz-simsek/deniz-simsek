@@ -15,9 +15,9 @@ Education
 * M.Sc. in Industrial Engineering, Bilkent University, 2021
 * B.Sc. in Industrial Engineering, Bilkent University, 2019
 
-Work experience
+Industry Experience (to be changed)
 ======
-* Spring 2024: Academic Pages Collaborator
+* Spring 2024: Academic Pages Collaborator 
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -32,33 +32,26 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Publications (to be changed)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks (to be changed)
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Teaching (to be changed)
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Voting Board Member, INFORMS Pride Forum, 2023 - Present
+* Vice President, Operations Student Life Committe, Kellogg School of Management, 2023 - 2024
