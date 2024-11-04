@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Teaching Assistant, Northwestern University 
+---
 
 * Stochastic Foundations II (Ph.D. core)
   Spring 2025, Spring 2024
@@ -31,6 +32,7 @@ redirect_from:
   Spring 2023, Summer 2023
     
 ## Teaching Assistant, Bilkent University
+---
 
 * Production Information Systems (Undergraduate core)
   Spring 2019
