@@ -19,7 +19,7 @@ $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : Helvetica, "Helvetica Neue", "Helvetica Neue Ultra Light", Arial, sans-serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
@@ -29,7 +29,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 /* Set Calibri as the global font */
-$global-font-family         : "Helvetica Neue", sans-serif;
+$global-font-family         : "Helvetica Neue Ultra Light", sans-serif;
 $header-font-family         : $global-font-family;
 $caption-font-family        : $global-font-family;
 
