@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Deniz Simsek"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Deniz Simsek"
 description              : &description "personal description"
 url                      : https://deniz-simsek.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,14 +21,14 @@ repository               : "deniz-simsek/deniz-simsek.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "profile.jpg"
+  name             : "Deniz Simsek"
+  pronouns         : "she/her"  
+  bio              : "Ph.D. Candidate"
+  location         : "Evanston, IL"
+  employer         : "Northwestern University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "deniz.simsek@kellogg.northwestern.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
