@@ -29,6 +29,7 @@ author:
   employer         : "Northwestern University"
   uri              : "/files/resume.pdf"
   email            : "deniz.simsek@kellogg.northwestern.edu" 
+  cv               : "/files/resume.pdf"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
