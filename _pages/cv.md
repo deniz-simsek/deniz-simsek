@@ -36,5 +36,5 @@ Teaching (to be changed)
   
 Service
 ======
-* Voting Board Member, INFORMS Pride Forum, 2023 - Present
+* Voting Board Member, INFORMS Pride Forum, 2023 - Present 
 * Vice President, Operations Student Life Committe, Kellogg School of Management, 2023 - 2024
