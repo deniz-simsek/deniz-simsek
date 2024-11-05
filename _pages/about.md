@@ -11,7 +11,7 @@ I am a fourth year Ph.D. candidate in Operations Management at the Kellogg Schoo
 
 My research interests are service operations, queueing theory, applied probability.
 
-I hold a B.Sc. and M.Sc. in Industrial Engineering from  <a href="https://w3.ie.bilkent.edu.tr/en/" target="_blank">Bilkent University</a> (Ankara, Turkey). 
+I received the B.Sc. and M.Sc. degrees in Industrial Engineering from  <a href="https://w3.ie.bilkent.edu.tr/en/" target="_blank">Bilkent University</a> (Ankara, Turkey) in 2019 and 2021, respectively. 
 
 
 ---
