@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Here is my full <a href="https://deniz-simsek.github.io/files/resume.pdf" target="_blank">CV</a>.
+
  
 ## Education
 ---
