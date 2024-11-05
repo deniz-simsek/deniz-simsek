@@ -13,6 +13,11 @@ redirect_from:
 
   * Finalist, 2022 INFORMS AAS Student Presentation Competition
 
+  * <details>
+  <summary>Abstract</summary>
+  Abstract comes here.
+</details>
+
 ## Working Papers
 ---
 **Deniz Şimşek**, Chenguang (Allen) Wu, Achal Bassamboo, Ohad Perry. A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times.
