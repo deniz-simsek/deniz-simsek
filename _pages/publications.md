@@ -11,6 +11,8 @@ redirect_from:
 ---
 **Deniz Şimşek**, M. Selim Aktürk. Resilient Airline Scheduling while Minimizing Delay Risks. *Transportation Research Part C*, 2022. Available at: <a href="https://doi.org/10.1016/j.trc.2022.103734" target="_blank">https://doi.org/10.1016/j.trc.2022.103734</a>
 
+  * Finalist, 2022 INFORMS AAS Student Presentation Competition
+
 ## Working Papers
 ---
 **Deniz Şimşek**, Chenguang (Allen) Wu, Achal Bassamboo, Ohad Perry. A Unified Fluid Model for Large Service Systems with Patience- or Delay-Dependent Service Times.
